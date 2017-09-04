@@ -1,0 +1,3 @@
+package: github.com/alexejk/go-docker-registry-client
+import:
+- package: github.com/sirupsen/logrus
